@@ -1,0 +1,54 @@
+v0.3.0.0
+--------
+- Updated solution from 2012 to Visual Studio 2017
+- Made it ready for GitHub
+- No new functions, GUI ist not tested with current versions of used tools like eac3to, SoX...
+
+v0.2.5.3
+--------
+- Fixed bug in pitch-settings -> decimal point
+
+v0.2.5.2
+--------
+- New Option in Context-Menu-Strip: "File -> Set Target Folder"
+- Fixed some Context-Menu-Strip-Bugs
+
+v0.2.5.1
+--------
+- Fixed problem with dtshd-files
+
+V0.2.5
+------
+- New SoX version 14.4.0
+- From now on, BDAudioConverterGUI saves every setting in "settings.xml"
+  You can delete "settings.xml" to reset the settings
+
+V0.2.0
+------
+- Added DTS Output Support for 754.5kbit/s & 1'509.75kbit/s
+- Cleaning Code
+- Added a "Cancel"-Button
+- Change converting-routine 
+- Some changes in the "Description"-Column
+- Another checkroutine for valid values in the "Effects"-Tab
+
+V0.1.3
+------
+- Added FLAC Input Support
+- Fixed bug in transcoding-routine to *.m4a -> " was missing
+
+V0.1.2
+------
+- Added Option "With direct value" on the Effects-Tap to change tempo without changing pitch
+- Added back the vertical scrollbar to the list
+
+V0.1.1
+------
+- Added Option "Mix LFE" to Downmix-Tab
+- Effect-Tab: Check automatically textboxes for the correct fps- or time-format
+- Code cleanup
+- Prozess Window starts now minimized
+
+V0.1.0
+------
+- First release of BDAudioConverterGUI

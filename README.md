@@ -1,6 +1,11 @@
 # BDAudioConverterGUI
 
-A GUI for Eac3to, SoX and other tools for converting audio files. I wrote this little tool a few years ago. Code is a mess, but it still works. Feel free to use it :-).
+A GUI for Eac3to, SoX and other tools for converting audio files. I wrote this little tool a few years ago.
+Code is a mess, but it still works. Feel free to use it :-).
+
+* [Readme](BDAudioConverterGUI/Readme.txt)
+* [Changelog](BDAudioConverterGUI/Changelog.txt)
+
 
 ![Preview](Images/bdaudioconverter_preview.png)
 

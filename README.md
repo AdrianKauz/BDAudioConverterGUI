@@ -7,6 +7,8 @@ Code is a mess, but it still works. Feel free to use it :-).
 * [Changelog](BDAudioConverterGUI/Changelog.txt)
 
 
+## Preview
+
 ![Preview](Images/bdaudioconverter_preview.png)
 
 ![SoX settings](Images/bdaudioconvertergui_sox_settings.gif)   ![Target Format](Images/bdaudioconvertergui_target_format.gif)

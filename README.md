@@ -4,9 +4,11 @@ A GUI for Eac3to, SoX and other tools for converting audio files. I wrote this l
 
 ![Preview](Images/bdaudioconverter_preview.png)
 
+![SoX settings](Images/bdaudioconvertergui_sox_settings.gif)   ![Target Format](Images/bdaudioconvertergui_target_format.gif)
+
 ## Getting Started
 
-This repository delivers only the code. To get the compiled GUI working you have to use following directory-tree:
+This repository delivers only the code. To get the compiled GUI working you have to use the following directory-tree:
 ```
 BDAudioConverterGUI/
 ├── aften/
